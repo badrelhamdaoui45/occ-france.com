@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.occ-france.com	TRUE	/	FALSE	1999999999	ci_session	11e8d03b8af2a214989cb99c53fcfc9a76ef4989
+
